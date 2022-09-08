@@ -1,0 +1,1 @@
+C:\Users\ismae\OneDrive\Escritorio\C#\ColorMaker\ColorMaker\ColorMaker.csproj;x64
